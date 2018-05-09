@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F8BD463A-9E5C-429B-8439-7D1E9EC1D77E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrudWithRealmApp/Views/ListOfCustomers.xaml">
+    <Files>
+      <File FileName="CrudWithRealmApp/ViewModels/CustomerViewModel.cs" Line="15" Column="9" />
+      <File FileName="CrudWithRealmApp/App.xaml.cs" Line="11" Column="71" />
+      <File FileName="CrudWithRealmApp/Views/ListOfCustomers.xaml.cs" Line="12" Column="1" />
+      <File FileName="CrudWithRealmApp/Views/ListOfCustomers.xaml" Line="9" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CrudWithRealmApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E54572E0-8A35-4BC7-A791-99069E5EB421">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CrudWithRealmApp.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
